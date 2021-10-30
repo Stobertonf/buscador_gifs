@@ -1,4 +1,4 @@
-# buscador_gifs
+# Buscador_Gifs
 
 Projeto do curso professor Daniel Ciolfi na plataforma Udemy. 
 
