@@ -1,16 +1,9 @@
 # buscador_gifs
 
-A new Flutter application.
+Projeto do curso professor Daniel Ciolfi na plataforma Udemy. 
 
-## Getting Started
+Curso: https://www.udemy.com/user/daniel-henrique-ciolfi/
 
-This project is a starting point for a Flutter application.
+Neste App foi desenvolvido um buscador de Gif, com as funcionalidades de pesquisar um gif e compartilhamento em redes sociais. A API que foi utilizada no projeto foi a do Gif( https://developers.giphy.com/) e o site que foram ultizados para buscar os Gifs foi: https://giphy.com/. O app utiliza imagens da internet (image.Network)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+O projeto foi desenvolvido por volta de 08/20201.
