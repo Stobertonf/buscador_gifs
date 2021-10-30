@@ -1,6 +1,6 @@
 # Buscador_Gifs
 
-Projeto do curso professor Daniel Ciolfi na plataforma Udemy. 
+Projeto do curso do professor Daniel Ciolfi na plataforma Udemy. 
 
 Curso: https://www.udemy.com/user/daniel-henrique-ciolfi/
 
